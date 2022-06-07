@@ -20,7 +20,7 @@ function FeedbackItem({ item }) {
   );
 }
 
-Card.propTypes = {
-  item: PropTypes.object.isRequired,
-};
+// Card.propTypes = {
+//   item: PropTypes.object.isRequired,
+// };
 export default FeedbackItem;
